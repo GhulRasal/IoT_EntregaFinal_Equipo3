@@ -1,2 +1,3 @@
 # J-IoT-S-reto-E3
-asd
+"Ante la duda, la más tetuda"
+-Pablo Neruda
