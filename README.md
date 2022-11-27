@@ -1,4 +1,4 @@
-# J-IoT-S-reto-E3
+# IoT Entrega Final - Equipo 3
 IMPLEMENTACIÓN DE INTERNET DE LAS COSAS (TC1004B.501)
 
 PROFESORES:
