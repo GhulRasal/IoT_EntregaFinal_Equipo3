@@ -1,4 +1,19 @@
 # J-IoT-S-reto-E3
+IMPLEMENTACIÓN DE INTERNET DE LAS COSAS (TC1004B.501)
+
+PROFESORES:
+
+Emmanuel Torres Rios
+
+Alba Adriana Romero García
+
+EQUIPO 3:
+
+Christian Flores Alberto | A01734997 
+
+Gerardo Deustúa Hernandez | A01736455
+
+José Luis Zago Guevara  |  A01736278
 
 En este repositorio se desarrollo un reporte paso a paso de los codigos empleados, conexiones realizadas y configuraciones, así mismo se adjuntaron los códigos e imágenes de nuestro sistema en donde consideramos los siguientes puntos:
 
