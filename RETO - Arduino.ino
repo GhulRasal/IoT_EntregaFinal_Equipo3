@@ -99,7 +99,7 @@ void setup() {
 
   config.database_url = DATABASE_URL; //Se configura la RTDB URL de la base de datos requerida
 
-  //Se encarga del registro del usuario anónimo
+  //Verifica el registro del usuario anónimo
   if (Firebase.signUp(&config, &auth, "", "")){
     Serial.println("ok");
     signupOK = true;
