@@ -12,6 +12,9 @@ const char* ssid = "Tec";
 #define EAP_IDENTITY "A01734977@tec.mx"
 #define EAP_PASSWORD "*****"
 
+// Se define el correo y contraseña en caso de que se quiera autentificar de forma no anónima, se comenta ya que en esta ocasión se genera el auth anónimo
+//#define USER_EMAIL "martinruizcortinez7@gmail.com"
+//#define USER_PASSWORD "Kalilinuxeslamamada"
 
 // Se define el API Key Firebase del proyecto
 #define API_KEY "AIzaSyDfFVXvISpNVfK6WumN7NvVeYpEEUMf8oE"//AIzaSyAjjTHMIV0y394tayvijhU-aVVcKdkIZxU
